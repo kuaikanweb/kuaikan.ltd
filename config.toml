@@ -1,6 +1,6 @@
 baseURL = 'https://www.kuaikan.ltd/'
 languageCode = 'zh-hans'
-title = '二手车推荐_二手皮卡_快看二手车'
+title = '二手皮卡_二手车推荐_快看二手车'
 theme = 'ananke'
 
 [taxonomies]
