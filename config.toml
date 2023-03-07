@@ -1,0 +1,9 @@
+baseURL = 'https://kuaikan.ltd/'
+languageCode = 'zh-hans'
+title = '二手车推荐_二手皮卡_快看二手车'
+theme = 'ananke'
+
+[taxonomies]
+   tag = "tags"
+   category = "categories"
+   pika = '皮卡'
